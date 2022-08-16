@@ -22,3 +22,4 @@ https://user-images.githubusercontent.com/100335717/184750589-391bb67f-385e-4897
 
 ## Deployed
  https://algotoday.github.io/Work-Day-Scheduler/
+ 
